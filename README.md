@@ -57,11 +57,11 @@ Every utility is scoped to an element carrying the `mj` class, so `df` is used a
 | Position | `pos-r`, `pos-a`, `pos-f`, `pos-s` | Positioning values |
 | Top | `t-a`, `t-0`, `t-2`, `t-4`, `t-6`, `t-8`, `t-12`, `t-16`, `t-20`, `t-24` | Top position values |
 | Bottom | `b-a`, `b-0`, `b-2`, `b-4`, `b-6`, `b-8`, `b-12`, `b-16`, `b-20`, `b-24` | Bottom position values |
-| Inline-start | `s-a`, `s-0`, `s-2`, `s-4`, `s-6`, `s-8`, `s-12`, `s-16`, `s-20`, `s-24` | Inline start position values |
-| Inline-end | `e-a`, `e-0`, `e-2`, `e-4`, `e-6`, `e-8`, `e-12`, `e-16`, `e-20`, `e-24` | Inline end position values |
+| Inline-start | `ii-s-a`, `ii-s-0`, `ii-s-2`, `ii-s-4`, `ii-s-6`, `ii-s-8`, `ii-s-12`, `ii-s-16`, `ii-s-20`, `ii-s-24` | Inline start position values |
+| Inline-end | `ii-e-a`, `ii-e-0`, `ii-e-2`, `ii-e-4`, `ii-e-6`, `ii-e-8`, `ii-e-12`, `ii-e-16`, `ii-e-20`, `ii-e-24` | Inline end position values |
 | Inline inset | `ii-a`, `ii-0`, `ii-2`, `ii-4`, `ii-6`, `ii-8`, `ii-12`, `ii-16`, `ii-20`, `ii-24` | Inset inline position values |
 | Block inset | `ib-a`, `ib-0` | Inset block position values |
-| Inset | `i-a`, `i-0`, `i-2`, `i-4`, `i-6`, `i-8`, `i-10`, `i-12`, `i-14`, `i-16`, `i-18`, `i-20`, `i-24` | Inset position values |
+| Inset | `inset-a`, `inset-0`, `inset-2`, `inset-4`, `inset-6`, `inset-8`, `inset-10`, `inset-12`, `inset-14`, `inset-16`, `inset-18`, `inset-20`, `i-24` | Inset position values |
 | Z-index | `z-a`, `z-0`, `z-1`, `z-2`, `z-3`, `z--1`, `z--2`, `z--3` | Stacking order utilities |
 | Opacity | `o-0`, `o-10`, `o-50`, `o-1`, `o-100` | Opacity presets |
 | Transition | `tr-all` | A short all-property transition |
@@ -71,7 +71,7 @@ Every utility is scoped to an element carrying the `mj` class, so `df` is used a
 | Line height | `lh-1` | Line-height presets |
 | Background | `back-t`, `b-transparent`, `back-w`, `b-white`, `back-b`, `b-black` | Transparent, white, and black backgrounds |
 | Overflow | `over-a`, `over-h` | Auto and hidden overflow behavior |
-| Text alignment | `texta-s`, `texta-c`, `texta-e` | Start, center, and end text alignment |
+| Text alignment | `ta-s`, `ta-c`, `ta-e` | Start, center, and end text alignment |
 | Line clamp | `line-clamp`, `line-clamp-1`, `line-clamp-2`, `line-clamp-3` | Multi-line truncation helpers |
 | White space | `white-space-nowrap` | Prevents text wrapping |
 | Box shadow | `bs-n` | Removes the box shadow |

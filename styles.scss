@@ -617,66 +617,66 @@ $transparent: #{"#0000"};
 	}
 
 	// Start inline insets
-	&.s-a {
+	&.ii-s-a {
 		inset-inline-start: auto;
 	}
-	&.s-0 {
+	&.ii-s-0 {
 		inset-inline-start: 0;
 	}
-	&.s-2 {
+	&.ii-s-2 {
 		inset-inline-start: 2px;
 	}
-	&.s-4 {
+	&.ii-s-4 {
 		inset-inline-start: 4px;
 	}
-	&.s-6 {
+	&.ii-s-6 {
 		inset-inline-start: 6px;
 	}
-	&.s-8 {
+	&.ii-s-8 {
 		inset-inline-start: 8px;
 	}
-	&.s-12 {
+	&.ii-s-12 {
 		inset-inline-start: 12px;
 	}
-	&.s-16 {
+	&.ii-s-16 {
 		inset-inline-start: 16px;
 	}
-	&.s-20 {
+	&.ii-s-20 {
 		inset-inline-start: 20px;
 	}
-	&.s-24 {
+	&.ii-s-24 {
 		inset-inline-start: 24px;
-	}
-	&.e-a {
-		inset-inline-end: auto;
 	}
 
 	// End inline insets
-	&.e-0 {
+	&.ii-e-a {
+		inset-inline-end: auto;
+	}
+	&.ii-e-0 {
 		inset-inline-end: 0;
 	}
-	&.e-2 {
+	&.ii-e-2 {
 		inset-inline-end: 2px;
 	}
-	&.e-4 {
+	&.ii-e-4 {
 		inset-inline-end: 4px;
 	}
-	&.e-6 {
+	&.ii-e-6 {
 		inset-inline-end: 6px;
 	}
-	&.e-8 {
+	&.ii-e-8 {
 		inset-inline-end: 8px;
 	}
-	&.e-12 {
+	&.ii-e-12 {
 		inset-inline-end: 12px;
 	}
-	&.e-16 {
+	&.ii-e-16 {
 		inset-inline-end: 16px;
 	}
-	&.e-20 {
+	&.ii-e-20 {
 		inset-inline-end: 20px;
 	}
-	&.e-24 {
+	&.ii-e-24 {
 		inset-inline-end: 24px;
 	}
 
@@ -719,46 +719,46 @@ $transparent: #{"#0000"};
 	}
 
 	// Insets
-	&.i-a {
+	&.inset-a {
 		inset: auto;
 	}
-	&.i-0 {
+	&.inset-0 {
 		inset: 0;
 	}
-	&.i-2 {
+	&.inset-2 {
 		inset: 2px;
 	}
-	&.i-4 {
+	&.inset-4 {
 		inset: 4px;
 	}
-	&.i-6 {
+	&.inset-6 {
 		inset: 6px;
 	}
-	&.i-8 {
+	&.inset-8 {
 		inset: 8px;
 	}
-	&.i-10 {
+	&.inset-10 {
 		inset: 10px;
 	}
-	&.i-12 {
+	&.inset-12 {
 		inset: 12px;
 	}
-	&.i-14 {
+	&.inset-14 {
 		inset: 14px;
 	}
-	&.i-16 {
+	&.inset-16 {
 		inset: 16px;
 	}
-	&.i-18 {
+	&.inset-18 {
 		inset: 18px;
 	}
-	&.i-20 {
+	&.inset-20 {
 		inset: 20px;
 	}
-	&.i-22 {
+	&.inset-22 {
 		inset: 22px;
 	}
-	&.i-24 {
+	&.inset-24 {
 		inset: 24px;
 	}
 
@@ -895,13 +895,13 @@ $transparent: #{"#0000"};
 	}
 
 	// Text aligns
-	&.texta-s {
+	&.ta-s {
 		text-align: start;
 	}
-	&.texta-c {
+	&.ta-c {
 		text-align: center;
 	}
-	&.texta-e {
+	&.ta-e {
 		text-align: end;
 	}
 
