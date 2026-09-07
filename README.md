@@ -52,8 +52,8 @@ Every utility is scoped to an element carrying the `mj` class, so `df` is used a
 | Padding inline | `p-inline-a`, `p-inline-0`, `p-inline-4`, `p-inline-8`, `p-inline-12`, `p-inline-16`, `p-inline-20` | Controls the inline-axis padding |
 | Border radius | `br-2`, `br-4`, `br-8`, `br-12`, `br-16`, `br-20`, `br-24`, `br-32`, `br-pill`, `br-circle` | Rounded corners and shapes |
 | Text color | `color-fff`, `color-white`, `color-h-white`, `color-000`, `color-black`, `color-h-black` | Text colors and hover colors |
-| Width | `w-a`, `w-fit`, `w-full`, `w-100`, `w-100dvw`, `w-95dvw`, `w-90dvw`, `w-16`, `w-20`, `w-24`, `w-32`, `w-48`, `w-64` | Width utilities |
-| Height | `h-a`, `h-full`, `h-100`, `h-100dvw`, `h-95dvw`, `h-90dvw`, `h-16`, `h-20`, `h-24`, `h-32`, `h-48`, `h-64` | Height utilities |
+| Width | `w-a`, `w-fit`, `w-full`, `w-100`, `w-100dvw`, `w-95dvw`, `w-90dvw`, `w-16`, `w-20`, `w-24`, `w-32`, `w-36`, `w-48`, `w-64` | Width utilities |
+| Height | `h-a`, `h-full`, `h-100`, `h-100dvw`, `h-95dvw`, `h-90dvw`, `h-16`, `h-20`, `h-24`, `h-32`, `h-36`, `h-48`, `h-64` | Height utilities |
 | Position | `pos-r`, `pos-a`, `pos-f`, `pos-s` | Positioning values |
 | Top | `t-a`, `t-0`, `t-2`, `t-4`, `t-6`, `t-8`, `t-12`, `t-16`, `t-20` | Top position values |
 | Bottom | `b-a`, `b-0`, `b-2`, `b-4`, `b-6`, `b-8`, `b-12`, `b-16`, `b-20` | Bottom position values |
