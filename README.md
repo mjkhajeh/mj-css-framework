@@ -67,7 +67,7 @@ Every utility is scoped to an element carrying the `mj` class, so `df` is used a
 | Transition | `tr-all` | A short all-property transition |
 | Border | `border-t`, `border-transparent`, `border-h-t`, `border-h-transparent` | Borders utilities |
 | Font size | `fs-10`, `fs-12`, `fs-14`, `fs-16`, `fs-18`, `fs-20`, `fs-24`, `fs-32`, `fs-48` | Rem-based font-size presets |
-| Font weight | `fw-100`, `fw-200`, `fw-300`, `fw-400`, `fw-500`, `fw-600`, `fw-700`, `fw-800`, `fw-900` | Numeric font-weight presets |
+| Font weight | `fw-1`, `fw-2`, `fw-3`, `fw-4`, `fw-5`, `fw-6`, `fw-7`, `fw-8`, `fw-9` | Numeric font-weight presets |
 | Line height | `lh-1` | Line-height presets |
 | Background | `back-t`, `b-transparent`, `back-w`, `b-white`, `back-b`, `b-black` | Transparent, white, and black backgrounds |
 | Overflow | `over-a`, `over-h` | Auto and hidden overflow behavior |
