@@ -37,31 +37,31 @@ Every utility is scoped to an element carrying the `mj` class, so `df` is used a
 | Flex | `flex-w`, `flex-w-n`, `flex-dir-c`, `flex-dir-r`, `flex-a`, `flex-1` | Flex wrapping, direction, and sizing utilities |
 | Grid columns | `g-t-c-1`, `g-t-c-2`, `g-t-c-3`, `g-t-c-4` | One-to-four equal grid columns |
 | Cells | `cell-1` | Places an item in the first grid row and column |
-| Gaps | `g-0`, `g-2`, `g-4`, `g-6`, `g-8`, `g-10`, `g-12`, `g-16`, `g-20` | Gap, row-gap, and column-gap |
-| Row gap | `g-r-0`, `g-r-2`, `g-r-4`, `g-r-6`, `g-r-8`, `g-r-10`, `g-r-12`, `g-r-16`, `g-r-20` | Row spacing for flex and grid layouts |
-| Column gap | `g-c-0`, `g-c-2`, `g-c-4`, `g-c-6`, `g-c-8`, `g-c-10`, `g-c-12`, `g-c-16`, `g-c-20` | Column spacing for flex and grid layouts |
+| Gaps | `g-0`, `g-2`, `g-4`, `g-6`, `g-8`, `g-10`, `g-12`, `g-16`, `g-20`, `g-24` | Gap, row-gap, and column-gap |
+| Row gap | `g-r-0`, `g-r-2`, `g-r-4`, `g-r-6`, `g-r-8`, `g-r-10`, `g-r-12`, `g-r-16`, `g-r-20`, `g-r-24` | Row spacing for flex and grid layouts |
+| Column gap | `g-c-0`, `g-c-2`, `g-c-4`, `g-c-6`, `g-c-8`, `g-c-10`, `g-c-12`, `g-c-16`, `g-c-20`, `g-c-24` | Column spacing for flex and grid layouts |
 | Margin | `m-a`, `m-0`, `m-2`, `m-4`, `m-6`, `m-8`, `m-10`, `m-12`, `m-16`, `m-20`, `m-24` | Directional and logical margins |
-| Margin top | `mt-a`, `mt-0`, `mt-4`, `mt-8`, `mt-12`, `mt-16`, `mt-20` | Controls the top margin |
-| Margin bottom | `mb-a`, `mb-0`, `mb-4`, `mb-8`, `mb-12`, `mb-16`, `mb-20` | Controls the bottom margin |
-| Margin block | `m-block-a`, `m-block-0`, `m-block-4`, `m-block-8`, `m-block-12`, `m-block-16`, `m-block-20` | Controls the block-axis margins |
-| Margin inline | `m-inline-a`, `m-inline-0`, `m-inline-4`, `m-inline-8`, `m-inline-12`, `m-inline-16`, `m-inline-20` | Controls the inline-axis margins |
+| Margin top | `mt-a`, `mt-0`, `mt-4`, `mt-8`, `mt-12`, `mt-16`, `mt-20`, `mt-24` | Controls the top margin |
+| Margin bottom | `mb-a`, `mb-0`, `mb-4`, `mb-8`, `mb-12`, `mb-16`, `mb-20`, `mb-24` | Controls the bottom margin |
+| Margin block | `m-block-a`, `m-block-0`, `m-block-4`, `m-block-8`, `m-block-12`, `m-block-16`, `m-block-20`, `m-block-24` | Controls the block-axis margins |
+| Margin inline | `m-inline-a`, `m-inline-0`, `m-inline-4`, `m-inline-8`, `m-inline-12`, `m-inline-16`, `m-inline-20`, `m-inline-24` | Controls the inline-axis margins |
 | Padding | `p-0`, `p-2`, `p-4`, `p-6`, `p-8`, `p-10`, `p-12`, `p-16`, `p-20`, `p-24` | Directional and logical padding |
-| Padding top | `pt-a`, `pt-0`, `pt-4`, `pt-8`, `pt-12`, `pt-16`, `pt-20` | Controls the top padding |
-| Padding bottom | `pb-a`, `pb-0`, `pb-4`, `pb-8`, `pb-12`, `pb-16`, `pb-20` | Controls the bottom padding |
-| Padding block | `p-block-a`, `p-block-0`, `p-block-4`, `p-block-8`, `p-block-12`, `p-block-16`, `p-block-20` | Controls the block-axis padding |
-| Padding inline | `p-inline-a`, `p-inline-0`, `p-inline-4`, `p-inline-8`, `p-inline-12`, `p-inline-16`, `p-inline-20` | Controls the inline-axis padding |
+| Padding top | `pt-a`, `pt-0`, `pt-4`, `pt-8`, `pt-12`, `pt-16`, `pt-20`, `pt-24` | Controls the top padding |
+| Padding bottom | `pb-a`, `pb-0`, `pb-4`, `pb-8`, `pb-12`, `pb-16`, `pb-20`, `pb-24` | Controls the bottom padding |
+| Padding block | `p-block-a`, `p-block-0`, `p-block-4`, `p-block-8`, `p-block-12`, `p-block-16`, `p-block-20`, `p-block-24` | Controls the block-axis padding |
+| Padding inline | `p-inline-a`, `p-inline-0`, `p-inline-4`, `p-inline-8`, `p-inline-12`, `p-inline-16`, `p-inline-20`, `p-inline-24` | Controls the inline-axis padding |
 | Border radius | `br-2`, `br-4`, `br-8`, `br-12`, `br-16`, `br-20`, `br-24`, `br-32`, `br-pill`, `br-circle` | Rounded corners and shapes |
 | Text color | `color-fff`, `color-white`, `color-h-white`, `color-000`, `color-black`, `color-h-black` | Text colors and hover colors |
 | Width | `w-a`, `w-fit`, `w-full`, `w-100`, `w-100dvw`, `w-95dvw`, `w-90dvw`, `w-16`, `w-20`, `w-24`, `w-32`, `w-36`, `w-48`, `w-64` | Width utilities |
 | Height | `h-a`, `h-full`, `h-100`, `h-100dvw`, `h-95dvw`, `h-90dvw`, `h-16`, `h-20`, `h-24`, `h-32`, `h-36`, `h-48`, `h-64` | Height utilities |
 | Position | `pos-r`, `pos-a`, `pos-f`, `pos-s` | Positioning values |
-| Top | `t-a`, `t-0`, `t-2`, `t-4`, `t-6`, `t-8`, `t-12`, `t-16`, `t-20` | Top position values |
-| Bottom | `b-a`, `b-0`, `b-2`, `b-4`, `b-6`, `b-8`, `b-12`, `b-16`, `b-20` | Bottom position values |
-| Inline-start | `s-a`, `s-0`, `s-2`, `s-4`, `s-6`, `s-8`, `s-12`, `s-16`, `s-20` | Inline start position values |
-| Inline-end | `e-a`, `e-0`, `e-2`, `e-4`, `e-6`, `e-8`, `e-12`, `e-16`, `e-20` | Inline end position values |
-| Inline inset | `ii-a`, `ii-0`, `ii-2`, `ii-4`, `ii-6`, `ii-8`, `ii-12`, `ii-16`, `ii-20` | Inset inline position values |
+| Top | `t-a`, `t-0`, `t-2`, `t-4`, `t-6`, `t-8`, `t-12`, `t-16`, `t-20`, `t-24` | Top position values |
+| Bottom | `b-a`, `b-0`, `b-2`, `b-4`, `b-6`, `b-8`, `b-12`, `b-16`, `b-20`, `b-24` | Bottom position values |
+| Inline-start | `s-a`, `s-0`, `s-2`, `s-4`, `s-6`, `s-8`, `s-12`, `s-16`, `s-20`, `s-24` | Inline start position values |
+| Inline-end | `e-a`, `e-0`, `e-2`, `e-4`, `e-6`, `e-8`, `e-12`, `e-16`, `e-20`, `e-24` | Inline end position values |
+| Inline inset | `ii-a`, `ii-0`, `ii-2`, `ii-4`, `ii-6`, `ii-8`, `ii-12`, `ii-16`, `ii-20`, `ii-24` | Inset inline position values |
 | Block inset | `ib-a`, `ib-0` | Inset block position values |
-| Inset | `i-a`, `i-0`, `i-2`, `i-4` | Inset position values |
+| Inset | `i-a`, `i-0`, `i-2`, `i-4`, `i-6`, `i-8`, `i-10`, `i-12`, `i-14`, `i-16`, `i-18`, `i-20`, `i-24` | Inset position values |
 | Z-index | `z-a`, `z-0`, `z-1`, `z-2`, `z-3`, `z--1`, `z--2`, `z--3` | Stacking order utilities |
 | Opacity | `o-0`, `o-10`, `o-50`, `o-1`, `o-100` | Opacity presets |
 | Transition | `tr-all` | A short all-property transition |
