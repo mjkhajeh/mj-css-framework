@@ -1,6 +1,6 @@
 # MJ Framework
 
-MJ Framework is a lightweight, Sass-powered CSS utility library. Utilities are composed with the `mj` namespace, making it possible to describe common layout, spacing, sizing, positioning, and visual properties directly in an element's class list.
+A lightweight, Sass-powered CSS utility library. Utilities are composed with the `mj` namespace, making it possible to describe common layout, spacing, sizing, positioning, and visual properties directly in an element's class list.
 
 ## Files
 
