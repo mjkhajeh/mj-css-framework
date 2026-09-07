@@ -1,10 +1,10 @@
 {
-  "name": "mj-framework",
+  "name": "mj-css-framework",
   "version": "1.0.0",
   "description": "A lightweight, Sass-powered CSS utility library. Utilities are composed with the `mj` namespace, making it possible to describe common layout, spacing, sizing, positioning, and visual properties directly in an element's class list.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mjkhajeh/mj-framework.git"
+    "url": "git+https://github.com/mjkhajeh/mj-css-framework.git"
   },
   "keywords": [
     "css",
@@ -14,7 +14,7 @@
   "author": "mj.khajeh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mjkhajeh/mj-framework/issues"
+    "url": "https://github.com/mjkhajeh/mj-css-framework/issues"
   },
-  "homepage": "https://github.com/mjkhajeh/mj-framework#readme"
+  "homepage": "https://github.com/mjkhajeh/mj-css-framework#readme"
 }
