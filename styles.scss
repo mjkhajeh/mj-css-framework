@@ -96,6 +96,9 @@ $transparent: #{"#0000"};
 	&.g-24 {
 		gap: 24px;
 	}
+	&.g-28 {
+		gap: 28px;
+	}
 	&.g-r-0 {
 		row-gap: 0;
 	}
@@ -126,6 +129,9 @@ $transparent: #{"#0000"};
 	&.g-r-24 {
 		row-gap: 24px;
 	}
+	&.g-r-28 {
+		row-gap: 28px;
+	}
 	&.g-c-0 {
 		column-gap: 0;
 	}
@@ -155,6 +161,9 @@ $transparent: #{"#0000"};
 	}
 	&.g-c-24 {
 		column-gap: 24px;
+	}
+	&.g-c-28 {
+		column-gap: 28px;
 	}
 	
 	// Margins
@@ -191,6 +200,9 @@ $transparent: #{"#0000"};
 	&.m-24 {
 		margin: 24px;
 	}
+	&.m-28 {
+		margin: 28px;
+	}
 	&.mt-a {
 		margin-top: auto;
 	}
@@ -214,6 +226,9 @@ $transparent: #{"#0000"};
 	}
 	&.mt-24 {
 		margin-top: 24px;
+	}
+	&.mt-28 {
+		margin-top: 28px;
 	}
 	&.mb-a {
 		margin-bottom: auto;
@@ -239,6 +254,9 @@ $transparent: #{"#0000"};
 	&.mb-24 {
 		margin-bottom: 24px;
 	}
+	&.mb-28 {
+		margin-bottom: 28px;
+	}
 	&.m-block-a {
 		margin-block: auto;
 	}
@@ -263,6 +281,9 @@ $transparent: #{"#0000"};
 	&.m-block-24 {
 		margin-block: 24px;
 	}
+	&.m-block-28 {
+		margin-block: 28px;
+	}
 	&.m-inline-a {
 		margin-inline: auto;
 	}
@@ -286,6 +307,9 @@ $transparent: #{"#0000"};
 	}
 	&.m-inline-24 {
 		margin-inline: 24px;
+	}
+	&.m-inline-28 {
+		margin-inline: 28px;
 	}
 
 	// Paddings
@@ -319,8 +343,8 @@ $transparent: #{"#0000"};
 	&.p-24 {
 		padding: 24px;
 	}
-	&.p-24 {
-		padding: 24px;
+	&.p-28 {
+		padding: 28px;
 	}
 	&.pt-a {
 		padding-top: auto;
@@ -346,6 +370,9 @@ $transparent: #{"#0000"};
 	&.pt-24 {
 		padding-top: 24px;
 	}
+	&.pt-28 {
+		padding-top: 28px;
+	}
 	&.pb-a {
 		padding-bottom: auto;
 	}
@@ -369,6 +396,9 @@ $transparent: #{"#0000"};
 	}
 	&.pb-24 {
 		padding-bottom: 24px;
+	}
+	&.pb-28 {
+		padding-bottom: 28px;
 	}
 	&.p-block-a {
 		padding-block: auto;
@@ -394,6 +424,9 @@ $transparent: #{"#0000"};
 	&.p-block-24 {
 		padding-block: 24px;
 	}
+	&.p-block-28 {
+		padding-block: 28px;
+	}
 	&.p-inline-a {
 		padding-inline: auto;
 	}
@@ -418,6 +451,9 @@ $transparent: #{"#0000"};
 	&.p-inline-24 {
 		padding-inline: 24px;
 	}
+	&.p-inline-28 {
+		padding-inline: 28px;
+	}
 
 	// Border radius
 	&.br-2 {
@@ -440,6 +476,9 @@ $transparent: #{"#0000"};
 	}
 	&.br-24 {
 		border-radius: 24px;
+	}
+	&.br-28 {
+		border-radius: 28px;
 	}
 	&.br-32 {
 		border-radius: 32px;
@@ -487,6 +526,9 @@ $transparent: #{"#0000"};
 	&.w-24 {
 		width: 24px;
 	}
+	&.w-28 {
+		width: 28px;
+	}
 	&.w-32 {
 		width: 32px;
 	}
@@ -524,6 +566,9 @@ $transparent: #{"#0000"};
 	}
 	&.h-24 {
 		height: 24px;
+	}
+	&.h-28 {
+		height: 28px;
 	}
 	&.h-32 {
 		height: 32px;
@@ -833,6 +878,9 @@ $transparent: #{"#0000"};
 	}
 	&.fs-24 {
 		font-size: 1.5rem;
+	}
+	&.fs-28 {
+		font-size: 1.75rem;
 	}
 	&.fs-32 {
 		font-size: 2rem;
